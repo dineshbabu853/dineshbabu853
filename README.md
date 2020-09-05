@@ -1,8 +1,8 @@
-## Hi there 👋 
-## I'm Dinesh an Aspiring Student Developer, and an Active Learner!
+## Hi guys 👋 
+## I'm Dinesh!
 
 - 🔭 I love DS and Algo! 
-- 🌱 I’m currently learning Web Dev! 
+- 🌱 Currently playing with Web Dev! 
 - 👯 I’m looking to collaborate with other developers!
 - 🥅 2020 Goals: Contribute more and learn more!
 - ⚡ Fun fact: I love sketching and vlogging! 
