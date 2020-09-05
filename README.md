@@ -12,12 +12,13 @@
 [<img align="left" alt="Dinesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dinesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dinesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dinesh | web" width="25px" src="https://cdn4.iconfinder.com/data/icons/web-icons-22/48/webpage-512.png" />][web]
+
 <br/><br />
 <img align="left" alt="Dinesh | gmail" width="33px" src="https://prosmartmailing.com/wp-content/uploads/2016/09/Mail-Circle-Icon-300x208.png" />
 <dineshbabu0823@gmail.com>
 <br/><br/>
-<img align="left" alt="Dinesh | web" width="25px" src="https://cdn4.iconfinder.com/data/icons/web-icons-22/48/webpage-512.png" />
-<https://dineshbabu853.github.io/>
+
 
 ### Languages and Tools:
 
@@ -40,6 +41,7 @@
 [gmail]: <dineshbabu0823@gmail.com>
 [instagram]: https://www.instagram.com/_.dinesh.____?r=nametag
 [linkedin]: https://www.linkedin.com/in/dineshbabu853/
+[web]: https://dineshbabu853.github.io/
 ![](https://img.shields.io/badge/Code-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-<MySQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
