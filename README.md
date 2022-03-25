@@ -5,7 +5,7 @@
 - 🌱 Currently playing with Web Dev! 
 - 👯 I’m looking to collaborate with other developers!
 - 🥅 2022 Goals: Contribute more and learn more!
-- ⚡ Fun fact: I love sketching and vlogging! 
+- ⚡ Fun fact: I like to travel and explore different cultures of mankind :) 
 
 
 ### Connect with me:
