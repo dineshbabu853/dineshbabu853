@@ -4,7 +4,7 @@
 - 🔭 I love DS and Algo! 
 - 🌱 Currently playing with Web Dev! 
 - 👯 I’m looking to collaborate with other developers!
-- 🥅 2021 Goals: Contribute more and learn more!
+- 🥅 2022 Goals: Contribute more and learn more!
 - ⚡ Fun fact: I love sketching and vlogging! 
 
 
