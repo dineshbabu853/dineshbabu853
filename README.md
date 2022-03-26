@@ -77,4 +77,9 @@ Mail:
 ![](https://img.shields.io/badge/MySQL-</>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
