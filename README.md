@@ -79,8 +79,9 @@ Mail:
 <!--START_SECTION:waka-->
 
 ```text
-YAML         25 mins         █████████████████████████   100.00 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML         28 mins         █████████████████▓░░░░░░░   70.65 %
+JavaScript   11 mins         ███████░░░░░░░░░░░░░░░░░░   28.37 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
