@@ -2,11 +2,11 @@
 ## I'm Dinesh!
 #### A Human being who have an ever-lasting love for programming and fonts on a black screen.
 
-- 🌱 Currently playing with Web Dev and AWS! 
-- 🔭 I like problem solving with DS and Algo! 
-- 👯 I’m looking to collaborate with other developers!
+- 🌱 Currently playing with Web Dev and AWS.
+- 🔭 I like problem solving with advanced DS and Algo.
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more and learn more!
-- ⚡ Fun fact: I like to travel and explore different cultures of mankind :) 
+- ⚡ Fun fact: We're All Stardust :P
 
 
 ### Connect with me:
