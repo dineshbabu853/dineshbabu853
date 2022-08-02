@@ -1,4 +1,4 @@
-# Hi guys 👋
+# Hello world 👋
 ## I'm Dinesh!
 #### A Human being who have an ever-lasting love for programming and fonts on a black screen.
 
