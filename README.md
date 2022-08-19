@@ -79,9 +79,8 @@ Mail:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 18 mins   ██████████████████████▒░░   89.86 %
-JSON         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JavaScript   1 hr 47 mins    █████████████████████░░░░   84.09 %
+Other        19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
 ```
 
 <!--END_SECTION:waka-->
