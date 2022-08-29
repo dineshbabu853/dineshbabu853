@@ -76,6 +76,8 @@ Mail:
 ![](https://img.shields.io/badge/Dynamodb-</>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MySQL-</>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+### My Daily Coding Stats:
+
 <!--START_SECTION:waka-->
 
 ```text
