@@ -64,9 +64,7 @@ Mail:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   36 mins         █████████████▒░░░░░░░░░░░   52.98 %
-HTML         27 mins         ██████████▒░░░░░░░░░░░░░░   40.72 %
-SCSS         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
